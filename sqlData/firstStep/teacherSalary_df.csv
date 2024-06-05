@@ -1,0 +1,559 @@
+,year,region,adm,hoursPerWeek_1,salaryPer40Hours_2
+2,2014,Acre,Privada,30.88749,2798.14
+5,2014,Acre,Pública,31.18284,3068.847
+8,2014,Alagoas,Estadual,25.89546,2986.005
+11,2014,Alagoas,Privada,29.34429,1691.669
+14,2014,Alagoas,Pública,29.91291,2796.339
+17,2014,Amazonas,Estadual,30.00246,3299.502
+20,2014,Amazonas,Privada,33.99871,2493.046
+23,2014,Amazonas,Pública,30.54688,2898.749
+26,2014,Amapá,Estadual,39.97639,4620.894
+29,2014,Amapá,Privada,29.24871,2278.96
+32,2014,Amapá,Pública,40.76109,4035.334
+35,2014,Bahia,Estadual,33.5949,4629.889
+38,2014,Bahia,Privada,31.05637,1871.479
+41,2014,Bahia,Pública,33.59086,3148.479
+44,2014,Ceará,Estadual,28.51273,2695.843
+47,2014,Ceará,Privada,32.63847,1555.473
+50,2014,Ceará,Pública,32.42858,2345.189
+53,2014,Distrito Federal,Estadual,35.58148,7067.356
+56,2014,Distrito Federal,Privada,27.8141,3788.119
+59,2014,Distrito Federal,Pública,35.63855,7077.727
+62,2014,Espírito Santo,Estadual,35.43716,2467.51
+65,2014,Espírito Santo,Privada,29.91372,2682.721
+68,2014,Espírito Santo,Pública,28.60492,3217.508
+71,2014,Goiás,Estadual,37.12074,3380.52
+74,2014,Goiás,Privada,31.06127,2198.798
+77,2014,Goiás,Pública,35.83592,3461.738
+80,2014,Maranhão,Estadual,23.86003,4532.009
+83,2014,Maranhão,Privada,31.40888,1804.323
+86,2014,Maranhão,Pública,30.98139,2648.505
+89,2014,Minas Gerais,Estadual,24.28712,3536.998
+92,2014,Minas Gerais,Privada,28.78065,2841.049
+95,2014,Minas Gerais,Pública,25.83928,3368.555
+98,2014,Mato Grosso do Sul,Estadual,20.90986,5118.416
+101,2014,Mato Grosso do Sul,Privada,29.09467,2433.373
+104,2014,Mato Grosso do Sul,Pública,24.37808,4080.271
+107,2014,Mato Grosso,Estadual,39.99952,1996.439
+110,2014,Mato Grosso,Privada,28.6153,2590.96
+113,2014,Mato Grosso,Pública,35.36853,2519.512
+116,2014,Pará,Estadual,20.38301,10083.24
+119,2014,Pará,Privada,27.94147,2386.86
+122,2014,Pará,Pública,30.12731,4130.604
+125,2014,Paraíba,Estadual,30.01993,2079.519
+128,2014,Paraíba,Privada,26.66617,1651.906
+131,2014,Paraíba,Pública,34.63247,2142.668
+134,2014,Pernambuco,Estadual,35.35668,2520.027
+137,2014,Pernambuco,Privada,31.0062,1806.03
+140,2014,Pernambuco,Pública,35.92594,2542.193
+143,2014,Piauí,Estadual,32.71861,2429.382
+146,2014,Piauí,Privada,29.57527,1903.877
+149,2014,Piauí,Pública,35.24557,2311.15
+152,2014,Paraná,Estadual,27.57033,4504.6
+155,2014,Paraná,Privada,28.48448,2545.998
+158,2014,Paraná,Pública,26.16076,3940.535
+164,2014,Rio de Janeiro,Privada,29.79468,2362.728
+170,2014,Rio Grande do Norte,Estadual,40.0,2391.867
+173,2014,Rio Grande do Norte,Privada,33.49051,1503.761
+176,2014,Rio Grande do Norte,Pública,34.86901,2875.36
+179,2014,Rondônia,Estadual,38.09227,2325.301
+182,2014,Rondônia,Privada,30.17242,2474.675
+185,2014,Rondônia,Pública,35.47299,2515.645
+188,2014,Roraima,Estadual,30.05294,4229.209
+191,2014,Roraima,Privada,33.58356,2235.998
+194,2014,Roraima,Pública,31.43671,3614.506
+197,2014,Rio Grande do Sul,Estadual,27.9383,3098.245
+200,2014,Rio Grande do Sul,Privada,27.06247,2899.688
+203,2014,Rio Grande do Sul,Pública,26.299,3597.537
+206,2014,Santa Catarina,Estadual,25.93519,3929.248
+209,2014,Santa Catarina,Privada,30.52736,2561.997
+212,2014,Santa Catarina,Pública,29.37655,3409.481
+215,2014,Sergipe,Estadual,39.92584,3911.759
+218,2014,Sergipe,Privada,32.58484,1499.92
+221,2014,Sergipe,Pública,38.54119,3542.874
+224,2014,São Paulo,Estadual,33.4825,3139.581
+227,2014,São Paulo,Privada,31.31786,3147.808
+230,2014,São Paulo,Pública,32.43142,3627.964
+233,2014,Tocantins,Estadual,39.99346,3202.979
+236,2014,Tocantins,Privada,31.38921,2484.971
+239,2014,Tocantins,Pública,37.1699,2909.364
+2,2015,Acre,Privada,30.71078,2940.299
+5,2015,Acre,Pública,31.40726,3240.782
+8,2015,Alagoas,Estadual,29.72505,2283.946
+11,2015,Alagoas,Privada,29.98713,1813.56
+14,2015,Alagoas,Pública,30.63197,2706.904
+17,2015,Amazonas,Estadual,30.00308,3208.356
+20,2015,Amazonas,Privada,33.27685,2724.656
+23,2015,Amazonas,Pública,30.18817,3005.785
+26,2015,Amapá,Estadual,39.97872,5438.387
+29,2015,Amapá,Privada,30.56882,2274.695
+32,2015,Amapá,Pública,39.28194,4764.711
+35,2015,Bahia,Estadual,33.73606,5174.678
+38,2015,Bahia,Privada,30.72027,2107.237
+41,2015,Bahia,Pública,33.3178,3597.158
+44,2015,Ceará,Estadual,29.9698,2632.773
+47,2015,Ceará,Privada,32.4757,1710.149
+50,2015,Ceará,Pública,31.6334,2664.069
+53,2015,Distrito Federal,Estadual,36.04393,7603.415
+56,2015,Distrito Federal,Privada,27.39182,4328.794
+59,2015,Distrito Federal,Pública,36.09977,7640.08
+62,2015,Espírito Santo,Estadual,35.12054,2549.817
+65,2015,Espírito Santo,Privada,29.28459,2976.328
+68,2015,Espírito Santo,Pública,28.98244,3446.144
+71,2015,Goiás,Estadual,39.21017,3517.826
+74,2015,Goiás,Privada,31.21366,2396.667
+77,2015,Goiás,Pública,36.62401,3844.843
+80,2015,Maranhão,Estadual,23.8801,5155.224
+83,2015,Maranhão,Privada,31.03948,1925.673
+86,2015,Maranhão,Pública,30.80147,3020.381
+89,2015,Minas Gerais,Estadual,24.29381,3393.505
+92,2015,Minas Gerais,Privada,28.50123,3114.103
+95,2015,Minas Gerais,Pública,25.82641,3452.393
+98,2015,Mato Grosso do Sul,Estadual,20.93261,5985.119
+101,2015,Mato Grosso do Sul,Privada,29.23145,2663.868
+104,2015,Mato Grosso do Sul,Pública,23.49224,4900.702
+107,2015,Mato Grosso,Estadual,39.99879,2488.238
+110,2015,Mato Grosso,Privada,27.95955,2965.782
+113,2015,Mato Grosso,Pública,35.84739,2929.467
+116,2015,Pará,Estadual,20.48848,10259.57
+119,2015,Pará,Privada,28.82825,2512.846
+122,2015,Pará,Pública,30.20892,4522.662
+125,2015,Paraíba,Estadual,30.01612,2196.832
+128,2015,Paraíba,Privada,27.48077,1681.126
+131,2015,Paraíba,Pública,34.76536,2397.233
+134,2015,Pernambuco,Estadual,35.57095,2681.676
+137,2015,Pernambuco,Privada,30.47937,1993.921
+140,2015,Pernambuco,Pública,35.71423,2860.336
+143,2015,Piauí,Estadual,32.72479,2801.011
+146,2015,Piauí,Privada,29.59195,2038.551
+149,2015,Piauí,Pública,35.6793,2684.944
+152,2015,Paraná,Estadual,22.15362,6030.24
+155,2015,Paraná,Privada,28.55102,2753.252
+158,2015,Paraná,Pública,24.05548,4671.828
+161,2015,Rio de Janeiro,Estadual,38.1822,2530.463
+164,2015,Rio de Janeiro,Privada,29.71838,2632.451
+167,2015,Rio de Janeiro,Pública,30.95552,3758.306
+170,2015,Rio Grande do Norte,Estadual,40.0,2674.726
+173,2015,Rio Grande do Norte,Privada,33.72054,1618.824
+176,2015,Rio Grande do Norte,Pública,35.35859,3304.72
+179,2015,Rondônia,Estadual,38.25256,2529.791
+182,2015,Rondônia,Privada,29.59887,2781.498
+185,2015,Rondônia,Pública,35.35752,2813.137
+188,2015,Roraima,Estadual,30.83317,4381.331
+191,2015,Roraima,Privada,33.11616,2333.701
+194,2015,Roraima,Pública,31.13281,3948.701
+197,2015,Rio Grande do Sul,Estadual,30.35019,3273.05
+200,2015,Rio Grande do Sul,Privada,27.34201,3097.982
+203,2015,Rio Grande do Sul,Pública,26.5999,3982.986
+206,2015,Santa Catarina,Estadual,24.89733,4399.545
+209,2015,Santa Catarina,Privada,30.42815,2796.633
+212,2015,Santa Catarina,Pública,29.03498,3772.799
+215,2015,Sergipe,Estadual,39.93304,3653.154
+218,2015,Sergipe,Privada,32.83428,1597.139
+221,2015,Sergipe,Pública,38.47669,3681.684
+224,2015,São Paulo,Estadual,32.56227,3439.912
+227,2015,São Paulo,Privada,31.17544,3432.884
+230,2015,São Paulo,Pública,32.01694,3973.53
+233,2015,Tocantins,Estadual,39.9981,3586.542
+236,2015,Tocantins,Privada,30.39108,2815.383
+239,2015,Tocantins,Pública,37.22457,3245.723
+2,2016,Acre,Privada,31.24449,2936.607
+5,2016,Acre,Pública,31.09769,3169.375
+8,2016,Alagoas,Estadual,31.80451,2159.61
+11,2016,Alagoas,Privada,29.28082,1936.916
+14,2016,Alagoas,Pública,30.81717,2852.711
+17,2016,Amazonas,Estadual,30.00397,3600.315
+20,2016,Amazonas,Privada,32.87387,2875.698
+23,2016,Amazonas,Pública,30.66079,3224.424
+26,2016,Amapá,Estadual,39.32952,3110.173
+29,2016,Amapá,Privada,30.60833,2379.725
+32,2016,Amapá,Pública,39.66616,3202.069
+35,2016,Bahia,Estadual,33.25606,5573.236
+38,2016,Bahia,Privada,30.44402,2281.155
+41,2016,Bahia,Pública,33.84787,3926.765
+44,2016,Ceará,Estadual,30.21628,3099.679
+47,2016,Ceará,Privada,32.12506,1852.091
+50,2016,Ceará,Pública,30.85795,3104.906
+53,2016,Distrito Federal,Estadual,35.92263,7625.398
+56,2016,Distrito Federal,Privada,27.12976,4876.094
+59,2016,Distrito Federal,Pública,35.99375,7680.83
+62,2016,Espírito Santo,Estadual,34.05778,2833.49
+65,2016,Espírito Santo,Privada,29.24145,3232.017
+68,2016,Espírito Santo,Pública,28.29957,3782.647
+71,2016,Goiás,Estadual,39.35446,3582.549
+74,2016,Goiás,Privada,31.25306,2617.637
+77,2016,Goiás,Pública,36.78644,4173.037
+80,2016,Maranhão,Estadual,24.24226,5825.015
+83,2016,Maranhão,Privada,31.58079,2041.78
+86,2016,Maranhão,Pública,30.47611,3444.481
+89,2016,Minas Gerais,Estadual,24.27947,4073.52
+92,2016,Minas Gerais,Privada,28.20716,3372.458
+95,2016,Minas Gerais,Pública,25.63734,3970.988
+98,2016,Mato Grosso do Sul,Estadual,20.81682,6907.667
+101,2016,Mato Grosso do Sul,Privada,28.7219,2979.842
+104,2016,Mato Grosso do Sul,Pública,22.97327,5556.592
+107,2016,Mato Grosso,Estadual,39.99705,2760.515
+110,2016,Mato Grosso,Privada,28.00086,3263.034
+113,2016,Mato Grosso,Pública,35.46855,3364.117
+116,2016,Pará,Estadual,20.48174,10683.63
+119,2016,Pará,Privada,28.40999,2696.35
+122,2016,Pará,Pública,30.43811,4900.279
+125,2016,Paraíba,Estadual,30.01939,2205.232
+128,2016,Paraíba,Privada,27.3517,1850.779
+131,2016,Paraíba,Pública,35.03508,2586.97
+134,2016,Pernambuco,Estadual,35.89189,2759.909
+137,2016,Pernambuco,Privada,30.02154,2176.155
+140,2016,Pernambuco,Pública,35.75137,3087.307
+143,2016,Piauí,Estadual,32.23328,2942.587
+146,2016,Piauí,Privada,29.02218,2345.139
+149,2016,Piauí,Pública,35.50694,2931.973
+152,2016,Paraná,Estadual,36.2442,4041.561
+155,2016,Paraná,Privada,28.85124,2997.954
+158,2016,Paraná,Pública,30.30058,4069.588
+161,2016,Rio de Janeiro,Estadual,38.20166,2489.19
+164,2016,Rio de Janeiro,Privada,29.90825,2762.657
+167,2016,Rio de Janeiro,Pública,31.23889,4102.039
+170,2016,Rio Grande do Norte,Estadual,39.99722,2958.971
+173,2016,Rio Grande do Norte,Privada,33.65299,1736.914
+176,2016,Rio Grande do Norte,Pública,34.00497,3727.827
+179,2016,Rondônia,Estadual,38.42073,2645.997
+182,2016,Rondônia,Privada,29.92468,2876.534
+185,2016,Rondônia,Pública,35.25422,3031.741
+188,2016,Roraima,Estadual,35.31937,4070.45
+191,2016,Roraima,Privada,30.68691,2738.751
+194,2016,Roraima,Pública,33.77337,3878.157
+197,2016,Rio Grande do Sul,Estadual,30.62106,3280.45
+200,2016,Rio Grande do Sul,Privada,27.89831,3356.261
+203,2016,Rio Grande do Sul,Pública,26.67136,4229.069
+206,2016,Santa Catarina,Estadual,24.74598,4481.65
+209,2016,Santa Catarina,Privada,30.84292,3042.501
+212,2016,Santa Catarina,Pública,29.35554,4099.251
+215,2016,Sergipe,Estadual,39.84332,3893.414
+218,2016,Sergipe,Privada,32.6578,1715.006
+221,2016,Sergipe,Pública,38.60344,3908.69
+224,2016,São Paulo,Estadual,33.07453,3522.152
+227,2016,São Paulo,Privada,31.2944,3648.524
+230,2016,São Paulo,Pública,32.32696,4216.536
+233,2016,Tocantins,Estadual,39.99916,3629.426
+236,2016,Tocantins,Privada,30.05948,3057.509
+239,2016,Tocantins,Pública,37.15267,3479.701
+2,2017,Acre,Privada,28.20137,3435.37
+5,2017,Acre,Pública,30.73085,3438.921
+8,2017,Alagoas,Estadual,32.00503,2287.79
+11,2017,Alagoas,Privada,29.22257,2146.719
+14,2017,Alagoas,Pública,29.94118,3200.761
+17,2017,Amazonas,Estadual,30.00499,3228.855
+20,2017,Amazonas,Privada,32.4221,3083.625
+23,2017,Amazonas,Pública,29.9344,3302.044
+26,2017,Amapá,Estadual,39.28617,1815.708
+29,2017,Amapá,Privada,31.88941,2458.954
+32,2017,Amapá,Pública,39.74822,2299.423
+35,2017,Bahia,Estadual,33.43808,5979.784
+38,2017,Bahia,Privada,30.25338,2451.0
+41,2017,Bahia,Pública,33.76522,4252.545
+44,2017,Ceará,Estadual,29.07996,3069.217
+47,2017,Ceará,Privada,31.5609,2034.914
+50,2017,Ceará,Pública,29.60694,3389.307
+53,2017,Distrito Federal,Estadual,35.06512,7849.158
+56,2017,Distrito Federal,Privada,27.23468,5206.483
+59,2017,Distrito Federal,Pública,35.15988,7938.489
+62,2017,Espírito Santo,Estadual,29.12126,3559.741
+65,2017,Espírito Santo,Privada,29.44006,3365.238
+68,2017,Espírito Santo,Pública,26.60442,4253.733
+71,2017,Goiás,Estadual,39.27672,3831.865
+74,2017,Goiás,Privada,30.76458,2871.229
+77,2017,Goiás,Pública,35.72841,4662.503
+80,2017,Maranhão,Estadual,24.46557,6101.116
+83,2017,Maranhão,Privada,31.53298,2192.321
+86,2017,Maranhão,Pública,28.99147,3913.535
+89,2017,Minas Gerais,Estadual,24.29308,4678.345
+92,2017,Minas Gerais,Privada,27.83921,3663.689
+95,2017,Minas Gerais,Pública,25.47116,4419.748
+98,2017,Mato Grosso do Sul,Estadual,20.68332,7475.339
+101,2017,Mato Grosso do Sul,Privada,28.69231,3275.058
+104,2017,Mato Grosso do Sul,Pública,22.74186,5906.214
+107,2017,Mato Grosso,Estadual,39.99868,3183.859
+110,2017,Mato Grosso,Privada,27.57291,3597.389
+113,2017,Mato Grosso,Pública,35.35252,3801.233
+116,2017,Pará,Estadual,20.53781,10909.7
+119,2017,Pará,Privada,28.3238,2842.978
+122,2017,Pará,Pública,29.25026,5335.048
+125,2017,Paraíba,Estadual,30.00933,2533.068
+128,2017,Paraíba,Privada,26.12039,2176.379
+131,2017,Paraíba,Pública,34.80514,2876.952
+134,2017,Pernambuco,Estadual,36.50123,2997.575
+137,2017,Pernambuco,Privada,30.16063,2314.499
+140,2017,Pernambuco,Pública,35.9515,3296.853
+143,2017,Piauí,Estadual,32.03293,3220.805
+146,2017,Piauí,Privada,27.92663,2602.04
+149,2017,Piauí,Pública,34.65464,3282.067
+152,2017,Paraná,Estadual,22.68374,6968.915
+155,2017,Paraná,Privada,28.42498,3227.298
+158,2017,Paraná,Pública,24.54554,5410.372
+161,2017,Rio de Janeiro,Estadual,25.51069,3680.87
+164,2017,Rio de Janeiro,Privada,29.89408,2928.573
+167,2017,Rio de Janeiro,Pública,29.39534,4581.894
+170,2017,Rio Grande do Norte,Estadual,30.26968,4102.03
+173,2017,Rio Grande do Norte,Privada,32.66321,1909.05
+176,2017,Rio Grande do Norte,Pública,31.1649,4496.476
+179,2017,Rondônia,Estadual,38.56182,2765.168
+182,2017,Rondônia,Privada,28.88376,2972.614
+185,2017,Rondônia,Pública,35.09801,3225.375
+188,2017,Roraima,Estadual,33.80733,5836.303
+191,2017,Roraima,Privada,28.90248,3051.053
+194,2017,Roraima,Pública,33.00781,5052.584
+197,2017,Rio Grande do Sul,Estadual,30.92428,3229.412
+200,2017,Rio Grande do Sul,Privada,27.41609,3675.151
+203,2017,Rio Grande do Sul,Pública,26.69832,4479.837
+206,2017,Santa Catarina,Estadual,24.23749,4542.803
+209,2017,Santa Catarina,Privada,29.82841,3324.407
+212,2017,Santa Catarina,Pública,29.21195,4398.218
+215,2017,Sergipe,Estadual,39.89373,4063.498
+218,2017,Sergipe,Privada,32.11322,1804.703
+221,2017,Sergipe,Pública,38.08111,4285.086
+224,2017,São Paulo,Estadual,32.56582,3675.898
+227,2017,São Paulo,Privada,31.18735,3957.408
+230,2017,São Paulo,Pública,32.20837,4490.219
+233,2017,Tocantins,Estadual,39.98359,3778.5
+236,2017,Tocantins,Privada,29.75733,3213.708
+239,2017,Tocantins,Pública,37.44332,3669.204
+2,2018,Rondônia,Privada,28.67129,3043.461
+5,2018,Rondônia,Pública,28.2557,4383.417
+8,2018,Acre,Estadual,26.76851,4577.998
+11,2018,Acre,Privada,28.88604,3629.479
+14,2018,Acre,Pública,30.03195,3886.497
+17,2018,Amazonas,Estadual,30.00473,3693.001
+20,2018,Amazonas,Privada,32.55743,3127.099
+23,2018,Amazonas,Pública,29.4132,3644.891
+26,2018,Roraima,Estadual,39.9998,4982.195
+29,2018,Roraima,Privada,29.12568,3366.065
+32,2018,Roraima,Pública,35.59409,4612.575
+35,2018,Pará,Estadual,20.3741,11047.67
+38,2018,Pará,Privada,27.5858,2977.426
+41,2018,Pará,Pública,29.41336,5477.904
+44,2018,Amapá,Estadual,39.01937,6411.316
+47,2018,Amapá,Privada,32.25518,2516.865
+50,2018,Amapá,Pública,39.73593,5557.951
+53,2018,Tocantins,Estadual,39.98435,3786.882
+56,2018,Tocantins,Privada,30.56048,3262.561
+59,2018,Tocantins,Pública,37.15206,3807.976
+62,2018,Maranhão,Estadual,20.01342,7293.748
+65,2018,Maranhão,Privada,31.28246,2265.895
+68,2018,Maranhão,Pública,26.01535,4489.37
+71,2018,Piauí,Estadual,31.85482,3323.782
+74,2018,Piauí,Privada,27.51717,2804.08
+77,2018,Piauí,Pública,33.90871,3596.674
+80,2018,Ceará,Estadual,30.06328,3619.236
+83,2018,Ceará,Privada,31.00168,2080.215
+86,2018,Ceará,Pública,29.50445,3726.839
+89,2018,Rio Grande do Norte,Estadual,30.19297,4327.486
+92,2018,Rio Grande do Norte,Privada,32.14612,2044.802
+95,2018,Rio Grande do Norte,Pública,30.98159,4775.264
+98,2018,Paraíba,Estadual,30.01576,2870.3
+101,2018,Paraíba,Privada,26.70986,2180.202
+104,2018,Paraíba,Pública,34.49398,3128.118
+107,2018,Pernambuco,Estadual,36.78222,3174.164
+110,2018,Pernambuco,Privada,30.18719,2435.595
+113,2018,Pernambuco,Pública,35.9596,3457.259
+116,2018,Alagoas,Estadual,29.91312,2711.46
+119,2018,Alagoas,Privada,29.16399,2205.199
+122,2018,Alagoas,Pública,29.21179,3732.422
+125,2018,Sergipe,Estadual,39.85843,4425.42
+128,2018,Sergipe,Privada,31.83445,1913.624
+131,2018,Sergipe,Pública,38.15661,4612.969
+134,2018,Bahia,Estadual,33.00336,6074.899
+137,2018,Bahia,Privada,29.40821,2616.701
+140,2018,Bahia,Pública,32.8586,4572.291
+143,2018,Minas Gerais,Estadual,24.33301,4796.294
+146,2018,Minas Gerais,Privada,27.20517,3827.913
+149,2018,Minas Gerais,Pública,25.25776,4633.499
+152,2018,Espírito Santo,Estadual,30.43456,3650.413
+155,2018,Espírito Santo,Privada,29.05301,3476.96
+158,2018,Espírito Santo,Pública,26.83706,4409.801
+161,2018,Rio de Janeiro,Estadual,25.7715,3911.329
+164,2018,Rio de Janeiro,Privada,29.15722,3108.672
+167,2018,Rio de Janeiro,Pública,29.401,4677.541
+170,2018,São Paulo,Estadual,32.61739,3958.882
+173,2018,São Paulo,Privada,31.34248,3912.31
+176,2018,São Paulo,Pública,32.41232,4690.645
+179,2018,Paraná,Estadual,22.66578,6768.426
+182,2018,Paraná,Privada,28.17175,3362.931
+185,2018,Paraná,Pública,24.60792,5388.724
+188,2018,Santa Catarina,Estadual,24.74603,4702.119
+191,2018,Santa Catarina,Privada,29.37368,3555.288
+194,2018,Santa Catarina,Pública,29.29605,4628.856
+197,2018,Rio Grande do Sul,Estadual,31.33795,3298.691
+200,2018,Rio Grande do Sul,Privada,27.183,3844.553
+203,2018,Rio Grande do Sul,Pública,26.80891,4668.662
+206,2018,Mato Grosso do Sul,Estadual,20.62703,7927.839
+209,2018,Mato Grosso do Sul,Privada,27.86966,3539.139
+212,2018,Mato Grosso do Sul,Pública,21.58441,6648.872
+215,2018,Mato Grosso,Estadual,39.99871,3608.22
+218,2018,Mato Grosso,Privada,26.98705,3865.912
+221,2018,Mato Grosso,Pública,35.26953,4201.176
+224,2018,Goiás,Estadual,39.59149,3962.959
+227,2018,Goiás,Privada,29.60067,3062.731
+230,2018,Goiás,Pública,35.73074,4845.009
+233,2018,Distrito Federal,Estadual,34.70287,7661.231
+236,2018,Distrito Federal,Privada,26.94757,5344.834
+239,2018,Distrito Federal,Pública,34.82316,7783.835
+2,2019,Rondônia,Privada,28.23814,3171.232
+5,2019,Rondônia,Pública,34.98515,3577.602
+8,2019,Acre,Estadual,26.35537,4587.662
+11,2019,Acre,Privada,29.41706,3599.794
+14,2019,Acre,Pública,28.88777,4072.805
+17,2019,Amazonas,Estadual,30.00491,4690.828
+20,2019,Amazonas,Privada,32.38911,3328.51
+23,2019,Amazonas,Pública,28.27123,4263.834
+26,2019,Roraima,Estadual,39.99201,5023.318
+29,2019,Roraima,Privada,29.4709,3151.832
+32,2019,Roraima,Pública,35.35403,4695.105
+35,2019,Pará,Estadual,20.56422,11108.98
+38,2019,Pará,Privada,28.43911,2903.22
+41,2019,Pará,Pública,29.43145,5512.365
+44,2019,Amapá,Estadual,38.86576,6705.702
+47,2019,Amapá,Privada,32.45803,2507.146
+50,2019,Amapá,Pública,39.40499,5845.382
+53,2019,Tocantins,Estadual,39.99857,3884.288
+56,2019,Tocantins,Privada,29.57983,3403.399
+59,2019,Tocantins,Pública,36.61961,4011.177
+62,2019,Maranhão,Estadual,20.2056,12281.47
+65,2019,Maranhão,Privada,30.13189,2411.95
+68,2019,Maranhão,Pública,25.49625,4581.3
+71,2019,Piauí,Estadual,30.16678,3492.018
+74,2019,Piauí,Privada,27.87933,2819.386
+77,2019,Piauí,Pública,32.9935,3817.332
+80,2019,Ceará,Estadual,29.57609,3810.774
+83,2019,Ceará,Privada,31.15433,2150.519
+86,2019,Ceará,Pública,29.22972,3915.998
+89,2019,Rio Grande do Norte,Estadual,30.61109,4410.612
+92,2019,Rio Grande do Norte,Privada,32.17744,2134.767
+95,2019,Rio Grande do Norte,Pública,31.04867,4978.235
+98,2019,Paraíba,Estadual,30.00894,3103.397
+101,2019,Paraíba,Privada,26.70903,2252.403
+104,2019,Paraíba,Pública,34.68143,3308.797
+107,2019,Pernambuco,Estadual,36.91461,3296.646
+110,2019,Pernambuco,Privada,30.23217,2571.818
+113,2019,Pernambuco,Pública,36.01818,3520.174
+116,2019,Alagoas,Estadual,22.50018,3668.415
+119,2019,Alagoas,Privada,29.25106,2224.767
+122,2019,Alagoas,Pública,27.08945,4054.132
+125,2019,Sergipe,Estadual,39.79713,4920.798
+128,2019,Sergipe,Privada,31.9719,1985.041
+131,2019,Sergipe,Pública,38.13399,4881.245
+134,2019,Bahia,Estadual,34.17822,7955.545
+137,2019,Bahia,Privada,29.7854,2670.513
+140,2019,Bahia,Pública,30.38386,5278.258
+143,2019,Minas Gerais,Estadual,24.35287,4809.289
+146,2019,Minas Gerais,Privada,27.16997,3977.284
+149,2019,Minas Gerais,Pública,25.20507,4795.953
+152,2019,Espírito Santo,Estadual,29.30049,3853.563
+155,2019,Espírito Santo,Privada,27.95084,3859.886
+158,2019,Espírito Santo,Pública,26.30657,4662.894
+161,2019,Rio de Janeiro,Estadual,25.66058,4233.37
+164,2019,Rio de Janeiro,Privada,28.71893,3372.981
+167,2019,Rio de Janeiro,Pública,29.26878,5141.353
+170,2019,São Paulo,Estadual,33.6573,3853.294
+173,2019,São Paulo,Privada,31.07135,4155.523
+176,2019,São Paulo,Pública,32.88072,4788.236
+179,2019,Paraná,Estadual,23.08416,6717.217
+182,2019,Paraná,Privada,28.07854,3462.273
+185,2019,Paraná,Pública,24.54786,5546.747
+188,2019,Santa Catarina,Estadual,24.55926,4981.754
+191,2019,Santa Catarina,Privada,29.49957,3674.449
+194,2019,Santa Catarina,Pública,29.05261,4940.353
+197,2019,Rio Grande do Sul,Estadual,31.18431,3270.386
+200,2019,Rio Grande do Sul,Privada,27.39433,3955.73
+203,2019,Rio Grande do Sul,Pública,26.57589,4841.248
+206,2019,Mato Grosso do Sul,Estadual,20.66738,8338.815
+209,2019,Mato Grosso do Sul,Privada,27.04449,3888.01
+212,2019,Mato Grosso do Sul,Pública,22.07452,6866.13
+215,2019,Mato Grosso,Estadual,39.99961,3729.3
+218,2019,Mato Grosso,Privada,27.40301,4185.787
+221,2019,Mato Grosso,Pública,35.2179,4416.733
+224,2019,Goiás,Estadual,39.87103,3982.776
+227,2019,Goiás,Privada,29.57989,3269.838
+230,2019,Goiás,Pública,35.94426,4922.65
+233,2019,Distrito Federal,Estadual,34.30264,7625.281
+236,2019,Distrito Federal,Privada,27.49213,5544.385
+239,2019,Distrito Federal,Pública,34.45577,7784.274
+2,2020,Rondônia,Privada,27.00418,3056.432
+5,2020,Rondônia,Pública,34.95463,4281.216
+8,2020,Acre,Estadual,26.73618,4441.76
+11,2020,Acre,Privada,30.09036,3252.076
+14,2020,Acre,Pública,29.99667,3781.577
+17,2020,Amazonas,Estadual,30.00358,4858.558
+20,2020,Amazonas,Privada,31.56115,3315.604
+23,2020,Amazonas,Pública,29.18968,4259.939
+26,2020,Roraima,Estadual,39.98827,4823.356
+29,2020,Roraima,Privada,27.22749,3382.058
+32,2020,Roraima,Pública,35.39817,4604.518
+35,2020,Pará,Estadual,20.41021,11447.48
+38,2020,Pará,Privada,28.10293,2857.044
+41,2020,Pará,Pública,29.41605,5907.513
+44,2020,Amapá,Estadual,39.1524,6495.555
+47,2020,Amapá,Privada,32.15217,2348.052
+50,2020,Amapá,Pública,38.84109,5946.596
+53,2020,Tocantins,Estadual,40.0,3750.222
+56,2020,Tocantins,Privada,27.45166,3469.827
+59,2020,Tocantins,Pública,36.60252,4125.607
+62,2020,Maranhão,Estadual,20.00497,8515.134
+65,2020,Maranhão,Privada,29.69631,2325.809
+68,2020,Maranhão,Pública,24.32324,5591.317
+71,2020,Piauí,Estadual,29.95902,3393.171
+74,2020,Piauí,Privada,27.45441,2731.091
+77,2020,Piauí,Pública,32.76771,4109.794
+80,2020,Ceará,Estadual,30.33403,3381.281
+83,2020,Ceará,Privada,30.32539,1977.413
+86,2020,Ceará,Pública,29.2964,4098.503
+89,2020,Rio Grande do Norte,Estadual,30.17061,4699.665
+92,2020,Rio Grande do Norte,Privada,30.67799,1996.164
+95,2020,Rio Grande do Norte,Pública,30.92382,5378.284
+98,2020,Paraíba,Estadual,30.00565,3678.116
+101,2020,Paraíba,Privada,26.39157,2096.676
+104,2020,Paraíba,Pública,34.84702,3672.867
+107,2020,Pernambuco,Estadual,35.06997,3513.202
+110,2020,Pernambuco,Privada,29.49202,2421.757
+113,2020,Pernambuco,Pública,35.19068,3751.987
+116,2020,Alagoas,Estadual,32.76381,2542.03
+119,2020,Alagoas,Privada,27.74485,2154.603
+122,2020,Alagoas,Pública,30.24757,3811.253
+125,2020,Sergipe,Estadual,39.78257,5154.407
+128,2020,Sergipe,Privada,30.56705,1857.297
+131,2020,Sergipe,Pública,38.25631,5153.299
+134,2020,Bahia,Estadual,31.04085,7248.096
+137,2020,Bahia,Privada,28.25162,2546.799
+140,2020,Bahia,Pública,28.72737,5653.202
+143,2020,Minas Gerais,Estadual,24.34042,4897.691
+146,2020,Minas Gerais,Privada,26.70093,3859.26
+149,2020,Minas Gerais,Pública,25.14636,5017.79
+152,2020,Espírito Santo,Estadual,28.07888,4455.225
+155,2020,Espírito Santo,Privada,27.43357,3715.859
+158,2020,Espírito Santo,Pública,25.92416,4839.972
+161,2020,Rio de Janeiro,Estadual,19.13112,5843.232
+164,2020,Rio de Janeiro,Privada,27.98734,3187.97
+167,2020,Rio de Janeiro,Pública,27.15132,5755.21
+170,2020,São Paulo,Estadual,33.99119,4202.715
+173,2020,São Paulo,Privada,28.45683,4281.567
+176,2020,São Paulo,Pública,32.92311,5133.012
+179,2020,Paraná,Estadual,23.46351,6895.574
+182,2020,Paraná,Privada,27.29193,3276.857
+185,2020,Paraná,Pública,24.75296,5697.005
+188,2020,Santa Catarina,Estadual,24.80396,4807.192
+191,2020,Santa Catarina,Privada,28.55564,3603.568
+194,2020,Santa Catarina,Pública,29.11282,5034.346
+197,2020,Rio Grande do Sul,Estadual,28.66616,3796.78
+200,2020,Rio Grande do Sul,Privada,26.47432,3984.144
+203,2020,Rio Grande do Sul,Pública,25.51166,5285.554
+206,2020,Mato Grosso do Sul,Estadual,20.60489,7034.201
+209,2020,Mato Grosso do Sul,Privada,26.16525,3896.709
+212,2020,Mato Grosso do Sul,Pública,22.20772,6586.577
+215,2020,Mato Grosso,Estadual,39.99904,4485.311
+218,2020,Mato Grosso,Privada,26.43786,4099.347
+221,2020,Mato Grosso,Pública,34.49738,5042.195
+224,2020,Goiás,Estadual,40.13612,4101.341
+227,2020,Goiás,Privada,28.55776,3058.731
+230,2020,Goiás,Pública,35.75151,5234.276
+233,2020,Distrito Federal,Estadual,33.62677,7583.562
+236,2020,Distrito Federal,Privada,27.38122,5457.459
+239,2020,Distrito Federal,Pública,33.79133,7748.634
